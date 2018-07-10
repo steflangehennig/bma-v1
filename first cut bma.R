@@ -8,7 +8,7 @@ library(arm)
 library(BMS)
 library(BayesFactor)
 
-set.seed(1605)
+set.seed(1859)
 
 dat <- read.csv("test.csv")
 
